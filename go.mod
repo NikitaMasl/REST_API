@@ -1,4 +1,4 @@
-module github.com/NikitaMasl/REST_API/internal/app/apiserver
+module github.com/NikitaMasl/REST_API
 
 go 1.14
 
